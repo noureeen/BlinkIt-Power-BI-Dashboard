@@ -113,15 +113,10 @@ Key Highlights:
 
 ---
 
-## Future Enhancements 🚀
+## Future Enhancements
 
 * Forecasting sales and demand trends
 * Advanced customer churn analysis
 * Real-time data integration
 * Automated alerts for low stock and negative feedback spikes
 
----
-
-
-
-⭐ If you find this project useful, feel free to star the repository!
