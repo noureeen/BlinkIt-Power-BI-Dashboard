@@ -103,6 +103,8 @@ Key Highlights:
 
 ---
 
+Dashboard Interaction <a href="https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/BlinkIt.pdf">View Dashboard</a>
+
 ## Key Business Value
 
 * Provides a **360° view of business performance**
