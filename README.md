@@ -120,3 +120,19 @@ Key Highlights:
 * Real-time data integration
 * Automated alerts for low stock and negative feedback spikes
 
+---
+## Dashboard
+
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
