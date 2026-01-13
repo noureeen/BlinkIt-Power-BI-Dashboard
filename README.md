@@ -125,14 +125,14 @@ Key Highlights:
 
 ![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
 
-![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144148.png)
 
-![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144205.png)
 
-![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144219.png)
 
-![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144238.png)
 
-![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144251.png)
 
-![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144126.png)
+![BlinkItScreenshot](https://github.com/noureeen/BlinkIt-Power-BI-Dashboard/blob/main/Screenshot%202026-01-13%20144308.png)
